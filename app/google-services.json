@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "938115461077",
+    "firebase_url": "https://fir-shubham-database.firebaseio.com",
+    "project_id": "fir-shubham-database",
+    "storage_bucket": "fir-shubham-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938115461077:android:cf7d36f956e9a173",
+        "android_client_info": {
+          "package_name": "com.brillica_services.firebase_project_with_botton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938115461077-i4ttivp5kfi371j27k8rt2qfg2e8tcmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brillica_services.firebase_project_with_botton",
+            "certificate_hash": "e741bd5162c8b975a4785e768153e88ec620e0aa"
+          }
+        },
+        {
+          "client_id": "938115461077-viqip8nkkcv5apbj349q6itg9omaq7n6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "938115461077-viqip8nkkcv5apbj349q6itg9omaq7n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pFoq4p2cnPjNVL-lICPeHi8So4pwp8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938115461077-viqip8nkkcv5apbj349q6itg9omaq7n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938115461077:android:498f7ede93bfd378",
+        "android_client_info": {
+          "package_name": "com.brillica_services.firebase_shubham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938115461077-apvj2rs1k04j4acldjg8dg04a1vpdjtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brillica_services.firebase_shubham",
+            "certificate_hash": "e741bd5162c8b975a4785e768153e88ec620e0aa"
+          }
+        },
+        {
+          "client_id": "938115461077-viqip8nkkcv5apbj349q6itg9omaq7n6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "938115461077-viqip8nkkcv5apbj349q6itg9omaq7n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pFoq4p2cnPjNVL-lICPeHi8So4pwp8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938115461077-viqip8nkkcv5apbj349q6itg9omaq7n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
